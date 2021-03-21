@@ -18,30 +18,30 @@ Using publically available Citi Bike data we want to analyze how the bike-share 
 
 ## Results 
 
-# The top starting locations and peak hours for Citi Bike rentals. 
+### The top starting locations and peak hours for Citi Bike rentals. 
 ![](Images/starting_locations_peak_hours.PNG)
 <br>
 We can clearly see from this image that the vast majority of City Bike checkouts occur in Manhattan south of Central Park. The most common checkout hours are in the mornings 8am-10am and in the afternoons from 4pm-8pm. Over 80% of checkouts where made by users with subscriptions. 
 <br>
 We conclude the 
 
-# The volume breakdown by user type and weekday separated by gender. 
+### The volume breakdown by user type and weekday separated by gender. 
 ![](Images/usertype_weekday_gender.PNG)
 <br>
 
-# The volume of rentals by length of checkout time.
+### The volume of rentals by length of checkout time.
 ![](Images/rentals_checkout_length.PNG)
 <br>
 
-# The volume of rentals by length of checkout time separated by gender.
+### The volume of rentals by length of checkout time separated by gender.
 ![](Images/rentals_checkout_length_gender.PNG)
 <br>
 
-# Heatmap of trip start hour for each day of the week. 
+### Heatmap of trip start hour for each day of the week. 
 ![](Images/start_hour_heatmap.PNG)
 <br>
 
-# Heatmap of trip start hour for each day of the week separated by gender.
+### Heatmap of trip start hour for each day of the week separated by gender.
 ![](Images/start_hour_heatmap_gender.PNG)
 <br>
 
