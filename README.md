@@ -1,6 +1,6 @@
 # bikesharing
 
-[City Bike Tableau Dashboard](https://public.tableau.com/profile/josh.pearson8858#!/vizhome/CitibikeChallenge_16161587957450/Story1?publish=yes "Link to Tableau Dashboard")
+[City Bike Tableau Dashboard](https://public.tableau.com/profile/josh.pearson8858#!/vizhome/CitibikeChallenge_16161587957450/CitiBike?publish=yes "Link to Tableau Dashboard")
 
 
 ## Project Overview
