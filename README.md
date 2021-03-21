@@ -2,11 +2,6 @@
 
 [City Bike Tableau Dashboard](https://public.tableau.com/profile/josh.pearson8858#!/vizhome/CitibikeChallenge_16161587957450/Story1?publish=yes "Link to Tableau Dashboard")
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
 
 ## Project Overview
 
@@ -57,5 +52,29 @@ When we split the previous heatmap view by gender we see that Female and Male us
 
 ## Summary
 
+### Male and Female riders behave similarly. 
+Although there are over twice as many male riders they behave in very similar ways. 
+<br>
 
+### Subscribers use Citi Bikes in their commutes. 
+![](Images/starting_locations_peak_hours_commute.PNG)
+<br>
+
+When we look subscriber checkouts in the business districts south of central park we see the morning and evening commute utalization spikes are evem more pronounced than before. 
+<br>
+
+### Customers use Citi Bikes for afternoon and late morning sightseeing.
+![](Images/starting_locations_peak_hours_customers.PNG)
+<br>
+When we look customer see a relatively even distribution throughout the afternoon hours. 
+<br>
+
+### Additional analysis needed to make a confident presentation to our investors. 
+- ![](Images/heatmap_wednesday.PNG) In this heatmap we see that the Wednesday afternoon commute hours see much less usage than the other weekdays. This is likely because of a weather event on one or multiple Wednesdays from our month of data.  We suggest additional months of data to be more confident in our data. We should repeat the analysis that is in our current dashboard once the additional data has been loaded and summarized. 
+
+- Add a layer to our map that shows additional transportation options in NYC. Is there a spike in usage for stations that are further away from subway stations and bus routes? 
+
+- How do special events such as concerts, and sporting events impact utilization in the areas nearest the event? 
+
+- How does weather impact utilizaion and how does NYC's weather compare to that of Des Moines?
 
